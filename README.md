@@ -1,4 +1,4 @@
-### Hi 👋! I'm Kiran, a web developer who loves building engaging and intuitive user-driven products.
+### Hi 👋! I'm Kiran, a web developer who loves building engaging and intuitive products informed by intelligent user research.
 
 I approach development with a product manager mindset, leveraging user insights to generate opportunities and define requirements for new features. Taking a user-first approach, I build applications that are easy to use and intuitive to navigate. Most importantly, I believe in delivering value continuously by shipping fast, quality code 🚀.
 
