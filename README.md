@@ -1,14 +1,14 @@
-### Hi 👋! I'm Kiran, a web developer with a user-driven mindset. 
+### Hi 👋! I'm Kiran, a web developer with a user-driven mindset.  
 
-I design and build applications that are engaging and intuitive to navigate. Most importantly, I believe in delivering value continuously by shipping fast, quality code 🚀.
+I design and build applications that are engaging and intuitive to navigate. Most importantly, I believe in delivering value continuously by shipping fast, quality code 🚀.  
 
-I believe the best engineers are multidisciplinary. On top of my technical skills, I have experience in market research, project management, and client relations and have managed multinational market research projects. Armed with thorough, actionable research findings, my team's Fortune 500 clients have been able to confidently launch products around the world. 
+I believe the best engineers are multidisciplinary. On top of my technical skills, I have experience in market research, project management, and client relations and have managed multinational market research projects. Armed with thorough, actionable research findings, my team's Fortune 500 clients have been able to confidently launch products around the world.  
 
-When I'm not programming, I enjoy baking (I make the world's best sugar-free chocolate chip cookies, guaranteed 🍪) and reading. Some of my favorite books include Ender's Game and The Graveyard Book. 
+When I'm not programming, I enjoy baking (I make the world's best sugar-free chocolate chip cookies, guaranteed 🍪) and reading. Some of my favorite books include Ender's Game and The Graveyard Book.  
 
-Check out my [portfolio](https://www.kiranmethuku.com/) and connect with me on [LinkedIn](https://www.linkedin.com/in/kiranmethuku0831/)!
+Check out my [portfolio](https://www.kiranmethuku.com/) and connect with me on [LinkedIn](https://www.linkedin.com/in/kiranmethuku0831/)!  
 
-#### P.S. I'm currently working on fine-tuning OpenAI's GPT3 to automate the most tedious task in the world, stay tuned 😉!
+#### P.S. I'm currently working on fine-tuning OpenAI's GPT3 to automate the most tedious task in the world, stay tuned 😉!  
 
 ### The Toolkit
 ![image](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
