@@ -8,7 +8,7 @@ When I'm not programming, I enjoy baking (I make the world's best sugar-free cho
 
 Check out my [portfolio](https://www.kiranmethuku.com/) and connect with me on [LinkedIn](https://www.linkedin.com/in/kiranmethuku0831/)!  
 
-#### P.S. I'm currently working on fine-tuning OpenAI's GPT3 to automate the most tedious task in the world, stay tuned 😉!  
+#### P.S. I'm currently designing and building a tool using OpenAI's GPT3 to automate the most tedious task in the world, stay tuned 😉!  
 
 ### The Toolkit
 ![image](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
