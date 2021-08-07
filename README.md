@@ -1,6 +1,6 @@
 ### Hi 👋! I'm Kiran, a web developer with a user-driven mindset.  
 
-I design and build applications that are engaging and intuitive to navigate. Most importantly, I believe in delivering value continuously by shipping fast, quality code 🚀.  
+I design and build applications that are engaging and intuitive to navigate. Above all, I believe in delivering value continuously by shipping fast, quality code 🚀.  
 
 I believe the best engineers are multidisciplinary. On top of my technical skills, I have experience in market research, project management, and client relations and have managed multinational market research projects. Armed with thorough, actionable research findings, my team's Fortune 500 clients have been able to confidently launch products around the world.  
 
